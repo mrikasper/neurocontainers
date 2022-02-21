@@ -1,7 +1,7 @@
 
 ----------------------------------
 ## physio/r2021a ##
-SPM12+PhysIO toolbox standalone with Matlab (r2021a) Compiler Runtime (v99)
+SPM12(r8224)+PhysIO toolbox(R2021a) standalone with Matlab (R2020b) Compiler Runtime (v9.9)
 
 Example:
 - To run PhysIO batch file (`.m` or `.mat`) directly
